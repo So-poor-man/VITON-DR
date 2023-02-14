@@ -2,7 +2,7 @@
 Official code for paper 'VITON-DR: Virtual try-on based on clothing detail retention' (__Unpublished__).    
 This code is an improvement proposed on the basis of __ACGPN__, which improves the ___Clothes Warping Module___ in the virtual try on structure proposed by __ACGPN__.
 
-##Installation   
+##Installation##   
 `python 3.8.11`    
 `pytorch 1.9,0`    
 `numpy 1.21.5`   
