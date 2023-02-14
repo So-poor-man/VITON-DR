@@ -12,7 +12,7 @@ This code is an improvement proposed on the basis of __ACGPN__, which improves t
 `python test.py`  
 __Note that__ the pre-trained models we use are from __ACGPN__ and the test dataset is from __VITON__.
 
-##Checkpoint 
+## Checkpoint 
 We used the pre-trained models `latest_net_G.pth`, `latest_net_G1.pth`, `latest_net_G2.pth` from ACGPN, which you can download [here](https://drive.google.com/file/d/1UWT6esQIU_d4tUm8cjxDKMhB8joQbrFx/view?usp=sharing) .
 
 ## Dataset
